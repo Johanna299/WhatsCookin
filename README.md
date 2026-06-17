@@ -1,6 +1,6 @@
 # What’s Cookin’? – Recipe Suggestion PWA
 
-What’s Cookin’? is a Progressive Web App that helps users find suitable recipes based on ingredients they already have at home. The app was developed as part of the course 'Mobile Web Apps' during my Bachelor’s degree in Communication, Knowledge & Media at University of Applied Sciences Upper Austria, Campus Hagenberg.
+What’s Cookin’? is a Progressive Web App that helps users find suitable recipes based on ingredients they already have at home. This app was developed in the 4th semester of my Bachelor’s degree in Communication, Knowledge & Media at the University of Applied Sciences Upper Austria, Campus Hagenberg, as part of the course 'Mobile Web Apps'.
 
 ## About the Project
 
