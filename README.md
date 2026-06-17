@@ -79,7 +79,7 @@ My work included concept development, frontend implementation, UI structure, API
 
 ### Recipe Detail
 
-![Recipe detail view](docs/screenshots/recipe-detail.png)
+![Recipe detail view](docs/screenshots/recipe-details.png)
 
 ### Saved Recipes
 
